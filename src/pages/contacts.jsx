@@ -7,7 +7,7 @@ function Contacts(){
     const background ={
         backgroundImage:`url(${imagee})`,
         width:"600px",
-        height:"450px",
+        height:"451px",
 
 
     }
